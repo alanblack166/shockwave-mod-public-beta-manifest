@@ -1,0 +1,14 @@
+ModificationType: Patch
+Name: 'C&C: Shockwave Public Beta'
+Version: 1.25 Beta 8
+SimpleDownloadLink: ''
+UIImageSourceLink: https://i.imgur.com/3PmlX4j.png
+DiscordLink: https://discord.gg/REcbv37
+ModDBLink: https://www.moddb.com/mods/cc-shockwave
+NewsLink: https://www.moddb.com/mods/cc-shockwave/articles
+DependenceName: 'C&C: Shockwave'
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: shockwave
+S3FolderName: shockwave-public-beta-individual-files
+S3HostPublicKey: ''
+S3HostSecretKey: ''
